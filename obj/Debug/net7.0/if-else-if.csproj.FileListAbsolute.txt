@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/bin/Debug/net7.0/if-else-if
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/bin/Debug/net7.0/if-else-if.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/bin/Debug/net7.0/if-else-if.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/obj/Debug/net7.0/if-else-if.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/obj/Debug/net7.0/if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/obj/Debug/net7.0/if-else-if.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/obj/Debug/net7.0/if-else-if.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/obj/Debug/net7.0/if-else-if.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/obj/Debug/net7.0/if-else-if.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/obj/Debug/net7.0/refint/if-else-if.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/if-else-if/obj/Debug/net7.0/if-else-if.pdb
